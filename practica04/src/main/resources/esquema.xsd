@@ -58,10 +58,4 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="DameTodoRequest">
-  <xs:element name="DameTodoResponse">
-  
-  </xs:element name="DameTodoResponse">
-
-
 </xs:schema>
